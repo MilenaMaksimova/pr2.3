@@ -1,0 +1,287 @@
+.navbar{
+    background-color: #b0692a;
+}
+.navbar-toggler{
+    border: white;
+    background-color: white;
+}
+
+.navbar-toggler-icon{
+    color: white;
+}
+
+.btn {
+    background: #b0692a;
+    border: none;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.bg-primary-subtle{
+    background: #b0692a;
+}
+
+.navbar-toggler {
+    color: aliceblue;
+}
+
+.navbar-toggler-icon{
+    color: aliceblue;
+}
+
+.btn-primary{
+    background: #b0692a;
+}
+
+footer{
+    background-color: #b0692a;
+}
+
+
+.btn-custom {
+    background-color: #b0692a;
+    border-color: #b0692a;
+}
+
+.btn:hover {
+    background-color: #b0692a;
+    border-color: #b0692a;
+}
+
+
+.card-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    
+    -webkit-box-orient: vertical;
+}
+
+
+
+@media (max-width: 1440px) {
+    .texty {
+    font-size: 1.5rem;
+    }
+    .btn {
+    font-size: 1rem;
+    }
+    .car-image {
+        object-fit: contain;
+    }
+    .card-body {
+        height: 200px;
+    }
+    .card-title{
+        font-size: 17px;
+    }
+    .card-text{
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .texty {
+    font-size: 1.25rem;
+    }
+    .btn {
+    font-size: 0.875rem;
+    }
+    .car-image {
+        object-fit: contain;
+    }
+    .card-body {
+        height: 150px;
+    }
+    .card-title{
+        font-size: 12px;
+    }
+    .card-text{
+        font-size: 10px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .texty {
+    font-size: 1rem;
+    }
+    .btn {
+    font-size: 0.75rem;
+    }
+    .car-image {
+        object-fit: contain;
+    }
+    .card-body {
+        height: 100px;
+    }
+    .card-title{
+        font-size: 7px;
+    }
+    .card-text{
+        font-size: 7px;
+    }
+}
+
+@media (max-width: 576px) {
+    .card-body {
+        height: 100%;
+    }
+    .card-title{
+        font-size: auto;
+    }
+    .card-text{
+        font-size: auto;
+    }
+}
+
+@media (max-width: 500px) {
+    .texty p:last-child {
+    display: none;
+    }
+}
+
+@media (max-width: 375px) {
+    .texty {
+    font-size: 0.875rem;
+    }
+    .btn {
+    font-size: 0.625rem;
+    }
+    .car-image {
+        object-fit: contain;
+    }
+    .card-body {
+        height: 75px;
+    }
+    .card-body {
+        height: 100%;
+    }
+    .card-title{
+        font-size: auto;
+    }
+    .card-text{
+        font-size: auto;
+    }
+}
+
+.card-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    
+    -webkit-box-orient: vertical;
+}
+
+@media (max-width: 1440px) {
+    .texty {
+    font-size: 1.5rem;
+    }
+    .btn {
+    font-size: 1rem;
+    }
+    .car-image {
+        object-fit: contain;
+    }
+    .card-body {
+        height: 200px;
+    }
+    .card-title{
+        font-size: 17px;
+    }
+    .card-text{
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .texty {
+    font-size: 1.25rem;
+    }
+    .btn {
+    font-size: 0.875rem;
+    }
+    .car-image {
+        object-fit: contain;
+    }
+    .card-body {
+        height: 150px;
+    }
+    .card-title{
+        font-size: 12px;
+    }
+    .card-text{
+        font-size: 10px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .texty {
+    font-size: 1rem;
+    }
+    .btn {
+    font-size: 0.75rem;
+    }
+    .car-image {
+        object-fit: contain;
+    }
+    .card-body {
+        height: 100px;
+    }
+    .card-title{
+        font-size: 7px;
+    }
+    .card-text{
+        font-size: 7px;
+    }
+}
+
+@media (max-width: 576px) {
+    .card-body {
+        height: 100%;
+    }
+    .card-title{
+        font-size: auto;
+    }
+    .card-text{
+        font-size: auto;
+    }
+}
+
+@media (max-width: 500px) {
+    .texty p:last-child {
+    display: none;
+    }
+}
+
+@media (max-width: 375px) {
+    .texty {
+    font-size: 0.875rem;
+    }
+    .btn {
+    font-size: 0.625rem;
+    }
+    .car-image {
+        object-fit: contain;
+    }
+    .card-body {
+        height: 75px;
+    }
+    .card-body {
+        height: 100%;
+    }
+    .card-title{
+        font-size: auto;
+    }
+    .card-text{
+        font-size: auto;
+    }
+}
+
